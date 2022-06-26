@@ -1,0 +1,18 @@
+2022-06-26 17:07:46,113ERROR-address-Address with ID 1111 : Does not exist
+2022-06-26 17:13:12,517ERROR-address-Address with ID 1111 : Does not exist
+2022-06-26 17:14:38,295ERROR-address-Address with ID 111 : Does not exist
+2022-06-26 19:28:54,608INFO-address-(13.931172, 75.569737, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.9311723,75.569737|marker-sm-50318A-1&scalebar=true&zoom=12&rand=-1047834986')
+2022-06-26 19:31:43,372INFO-address-(13.931172, 75.569737, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.9311723,75.569737|marker-sm-50318A-1&scalebar=true&zoom=12&rand=1299667010')
+2022-06-26 19:37:38,709INFO-address-(13.931172, 75.569737, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.9311723,75.569737|marker-sm-50318A-1&scalebar=true&zoom=12&rand=-1347772417')
+2022-06-26 19:37:38,739INFO-address-Address created Sucessfully
+2022-06-26 19:38:32,312INFO-address-(13.931172, 75.569737, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.9311723,75.569737|marker-sm-50318A-1&scalebar=true&zoom=12&rand=1809223666')
+2022-06-26 19:38:32,337INFO-address-Address with ID 1 updated
+2022-06-26 19:42:27,689DEBUG-address-(13.03671, 77.59328, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.03671,77.59328|marker-sm-50318A-1&scalebar=true&zoom=15&rand=-351400302')
+2022-06-26 19:42:27,710INFO-address-Address created Sucessfully
+2022-06-26 19:43:51,067DEBUG-address-(12.97912, 77.5913, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=12.9791198,77.5912997|marker-sm-50318A-1&scalebar=true&zoom=12&rand=-1685284365')
+2022-06-26 19:43:51,098INFO-address-Address created Sucessfully
+2022-06-26 19:49:50,706DEBUG-address-(12.97912, 77.5913, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=12.9791198,77.5912997|marker-sm-50318A-1&scalebar=true&zoom=12&rand=-678086809')
+2022-06-26 19:49:50,724INFO-address-Address created Sucessfully
+2022-06-26 19:50:17,090INFO-address-(13.931172, 75.569737, 'http://www.mapquestapi.com/staticmap/v5/map?key=Um5CCI8IPTS2XHZFL6l1nVJeSdTIDzKz&type=map&size=225,160&locations=13.9311723,75.569737|marker-sm-50318A-1&scalebar=true&zoom=12&rand=547647170')
+2022-06-26 19:50:17,108INFO-address-Address with ID 4 updated
+2022-06-26 19:50:34,011INFO-address-Address with ID 4 deleted
