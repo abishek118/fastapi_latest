@@ -69,6 +69,7 @@ def create_address(address:Address_Book, db:Session = Depends(get_db)):
 # Get all address
 @app.get("/")
 def read_api(db: Session = Depends(get_db)):
+    logger.info(f'got all address from database successfully'
     # get all the address data from database and return to user
     return db.query(models.Address).all() 
 
@@ -124,7 +125,7 @@ def update_address(address_id:int, address:Address_Book, db: Session = Depends(g
     address_model.pincode = address.pincode
     # updating coordinate data from mapquest api in the coordinates.py file 
     full_add_data=coordinates.coordinates(f"{address_model.streetAddress},{address_model.city},{address_model.state}")
-    logger.info(f"{full_add_data}")
+    logger.debug(f"{full_add_data}")
     address_model.coordinates = f"{full_add_data[0]},{full_add_data[1]}"
     address_model.mapUrl = full_add_data[2]
     
